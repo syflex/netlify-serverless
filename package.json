@@ -1,0 +1,23 @@
+{
+  "name": "netlify-serverless",
+  "version": "1.0.0",
+  "description": "nazi-ntl-serverless",
+  "main": "./netlify/functions/pokedex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syflex/netlify-serverless.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syflex/netlify-serverless/issues"
+  },
+  "homepage": "https://github.com/syflex/netlify-serverless#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  },
+  "type": "module"
+}
